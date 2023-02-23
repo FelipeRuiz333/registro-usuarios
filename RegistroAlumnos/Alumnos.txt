@@ -1,0 +1,8 @@
+Carlos|Orzuza|40382243|Diseño y animacion 2D|Distinguido
+Felipe|Ruiz|40167938|Elementos de programacion|Sobresaliente
+Tadeo|Rivero|39434532|Historia del Arte|Bueno
+Matias|Ava|41738343|Contabilidad 1|Insuficiente
+Ramon|Dino|34848356|Algoritmos Computacionales|Insuficiente
+Nacho|Fernandez Muller|34565312|Introducción a la ciberseguridad|Insuficiente
+Tomas|Rivero|78236787|Trigonometria avanzada|Aprobado
+Luciano|Genco|45443232|Ingenieria computacional|Aprobado
